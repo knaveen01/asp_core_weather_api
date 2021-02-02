@@ -1,0 +1,14 @@
+D:\mLearn\ms\core\GeoWeather\GeoWeather\bin\Debug\netcoreapp2.1\GeoWeather.deps.json
+D:\mLearn\ms\core\GeoWeather\GeoWeather\bin\Debug\netcoreapp2.1\GeoWeather.runtimeconfig.json
+D:\mLearn\ms\core\GeoWeather\GeoWeather\bin\Debug\netcoreapp2.1\GeoWeather.runtimeconfig.dev.json
+D:\mLearn\ms\core\GeoWeather\GeoWeather\bin\Debug\netcoreapp2.1\GeoWeather.dll
+D:\mLearn\ms\core\GeoWeather\GeoWeather\bin\Debug\netcoreapp2.1\GeoWeather.pdb
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.csproj.CoreCompileInputs.cache
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.RazorAssemblyInfo.cache
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.RazorAssemblyInfo.cs
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.AssemblyInfoInputs.cache
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.AssemblyInfo.cs
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.RazorTargetAssemblyInfo.cache
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.dll
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.pdb
+D:\mLearn\ms\core\GeoWeather\GeoWeather\obj\Debug\netcoreapp2.1\GeoWeather.csprojAssemblyReference.cache
